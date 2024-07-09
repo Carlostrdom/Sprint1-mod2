@@ -1,0 +1,30 @@
+.navbar{
+    background-color: gray;
+}
+
+.logo{
+    height: 50px;
+}
+
+
+.caur-img{
+    height: 200px;
+   
+}
+.card {
+    width: 300px;
+}
+
+.card-img-top {
+    height: 150px;
+}
+
+.carousel-caption{
+    height: 100%;
+}
+
+
+.custom-form-width {
+    width: 20%; 
+    max-width:700spx;
+}
